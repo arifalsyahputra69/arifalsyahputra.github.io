@@ -52,7 +52,7 @@ return [
     |
     */
 
-    'url' => env('APP_URL', 'http://https://arifalsyahputra69.github.io/arifalsyahputra.github.io/'),
+    'url' => env('APP_URL', 'http://arifalsyahputra69.github.io/arifalsyahputra.github.io/'),
 
     /*
     |--------------------------------------------------------------------------
